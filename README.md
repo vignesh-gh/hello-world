@@ -1,2 +1,2 @@
 # hello-world
-Just start with hello world projects
+Just start with hello world project
